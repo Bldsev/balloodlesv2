@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0becac88328e436e176a69f364fbea6840b218ec",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0becac88328e436e176a69f364fbea6840b218ec",
+  "CONTRACT_ADDRESS": "0x19869f573f6D2176EE1Dde03666749dc0bedf00C",
+  "SCAN_LINK": "https://polygonscan.com/token/0x19869f573f6D2176EE1Dde03666749dc0bedf00C",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 3,
   "GAS_LIMIT": 1000000,
   "MARKETPLACE": "Opensea.io",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/balloodles-v2-official",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/balloodles-v2",
   "SHOW_BACKGROUND": true
 }

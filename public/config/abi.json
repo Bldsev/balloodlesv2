@@ -465,7 +465,13 @@
 		"type": "function"
 	},
 	{
-		"inputs": [],
+		"inputs": [
+			{
+				"internalType": "bool",
+				"name": "_state",
+				"type": "bool"
+			}
+		],
 		"name": "reveal",
 		"outputs": [],
 		"stateMutability": "nonpayable",
