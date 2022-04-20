@@ -101,8 +101,8 @@ function App() {
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
-    "CONTRACT_ADDRESS": "0x0becac88328e436e176a69f364fbea6840b218ec",
-    "SCAN_LINK": "https://polygonscan.com/token/0x0becac88328e436e176a69f364fbea6840b218ec",
+    "CONTRACT_ADDRESS": "0x19869f573f6D2176EE1Dde03666749dc0bedf00C",
+    "SCAN_LINK": "https://polygonscan.com/token/0x19869f573f6D2176EE1Dde03666749dc0bedf00C",
     "NETWORK": {
       "NAME": "Polygon",
       "SYMBOL": "Matic",
