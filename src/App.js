@@ -110,9 +110,9 @@ function App() {
     },
     "NFT_NAME": "Balloodles V2",
     "SYMBOL": "BLDS",
-    "MAX_SUPPLY": 1500,
-    "WEI_COST": 30000000000000000000,
-    "DISPLAY_COST": 30,
+    "MAX_SUPPLY": 4000,
+    "WEI_COST": 50000000000000000000,
+    "DISPLAY_COST": 50,
     "GAS_LIMIT": 1000000,
     "MARKETPLACE": "Opensea.io",
     "MARKETPLACE_LINK": "https://opensea.io/collection/balloodles-v2",
@@ -161,8 +161,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 3) {
-      newMintAmount = 3;
+    if (newMintAmount > 5) {
+      newMintAmount = 5;
     }
     setMintAmount(newMintAmount);
   };
@@ -221,7 +221,7 @@ function App() {
             <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  PRIVATE-SALE
+                  PRE-SALE
                 </s.TextTitle>
             <s.TextTitle
               style={{
