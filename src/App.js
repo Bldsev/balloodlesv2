@@ -110,7 +110,7 @@ function App() {
     },
     "NFT_NAME": "Balloodles V2",
     "SYMBOL": "BLDS",
-    "MAX_SUPPLY": 1000,
+    "MAX_SUPPLY": 2000,
     "WEI_COST": 25000000000000000000,
     "DISPLAY_COST": 25,
     "GAS_LIMIT": 1000000,
